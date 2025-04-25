@@ -1,0 +1,9 @@
+streamlit==1.15.0
+pandas==1.5.3
+numpy==1.23.5
+langchain==0.0.185
+langchain-google-genai==0.0.5
+langchain-community==0.0.8
+faiss-cpu==1.7.2
+python-dotenv==0.21.0
+langchain-text-splitters==0.0.1
